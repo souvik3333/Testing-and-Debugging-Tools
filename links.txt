@@ -1,0 +1,10 @@
+https://docs.microsoft.com/en-us/visualstudio/test/writing-unit-tests-for-c-cpp?view=vs-2017
+https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#ABAP
+
+
+
+
+===============================================examples=======================================
+http://www.yolinux.com/TUTORIALS/CppUnit.html
+https://cpptest.sourceforge.io/tutorial.html
+http://ranger.uta.edu/~csallner/jcrasher/code/index.html
