@@ -1,0 +1,9 @@
+GDB: This is an open source CLI debugger
+Valgrind: This is an open source CLI, good for memory leaks, deadlocks, racing detection, and so on
+Affinic debugger: This is a commercial GUI tool for GDB
+GNU DDD: This is an open source graphical debugger for GDB, DBX, JDB, XDB, and so on 
+GNU Emacs GDB mode: This is an open source tool with minimal graphical debugger support
+KDevelop: This is an open source tool with graphical debugger support
+Nemiver: This is an open source tool that works well in the GNOME desktop environment
+SlickEdit: This is good for debugging multithreaded and multiprocessor code  
+
