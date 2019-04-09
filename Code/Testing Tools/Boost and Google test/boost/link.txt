@@ -1,0 +1,9 @@
+https://github.com/boostorg/test
+https://www.boost.org/doc/libs/1_35_0/libs/test/doc/components/test_tools/reference/BOOST_CHECK_NO_THROW.html
+https://legalizeadulthood.wordpress.com/2009/07/05/c-unit-tests-with-boost-test-part-5/
+https://legalizeadulthood.wordpress.com/2009/07/04/c-unit-tests-with-boost-test-part-1/
+
+No support for mock objects, though you can use boost.turtle. I used it together with boost/catch and it did a good job.
+
+execution control
+http://alexott.net/en/cpp/CppTestingIntro.html
