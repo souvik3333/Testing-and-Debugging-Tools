@@ -1,0 +1,10 @@
+https://askubuntu.com/questions/418170/install-kdevelop-on-ubuntu-13-04
+https://yade-dem.org/wiki/Debugging_using_Kdevelop
+
+seg fault - detected
+divide by 0 - detected
+mem leak - undetected
+access unallocated mem - detected 
+access unallocated mem (static) - detected
+access uninitailised mem - undetected 	
+overflow - undetected

@@ -1,0 +1,13 @@
+g++ -g memsim.cpp  (for c : gcc -g memsim.c)
+gdb ./a.out
+
+https://web.eecs.umich.edu/~sugih/pointers/summary.html
+https://www.tutorialspoint.com/gnu_debugger/gdb_commands.htm  
+
+seg fault - detected
+divide by 0 - detected
+mem leak - undetected
+access unallocated mem - detected but can't specify what the error is
+access unallocated mem (static) - detected but can't specify what the error is
+access uninitailised mem - undetected 	
+overflow - undetected

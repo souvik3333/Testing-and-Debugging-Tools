@@ -1,0 +1,13 @@
+g++ -Wall -pedantic -g program.cpp (for c : gcc -Wall -pedantic -g program.c)
+valgring ./a.out
+
+http://cs.ecs.baylor.edu/~donahoo/tools/valgrind/
+http://pages.cs.wisc.edu/~bart/537/valgrind.html
+
+seg fault - detected
+divide by 0 - detected
+mem leak - detected
+access unallocated mem (dynamic) - detected
+access unallocated mem (static) - detected
+access uninitailised mem - detected 	(???)
+overflow - detection is input dependent (undetected if no overflow for given input)

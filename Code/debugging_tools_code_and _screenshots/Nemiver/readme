@@ -1,0 +1,13 @@
+g++ -g memsim.cpp  (for c : gcc -g memsim.c)
+nemiver ./a.out
+
+https://www.howtoinstall.co/en/ubuntu/trusty/nemiver
+http://xmodulo.com/debug-program-nemiver-debugger.html
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""seg fault - detected
+divide by 0 - detected
+mem leak - detected
+access unallocated mem - detected
+access unallocated mem (static) - detected but can't specify what the error is
+access uninitailised mem - undetected 	
+overflow - undetected""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
